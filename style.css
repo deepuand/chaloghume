@@ -111,44 +111,44 @@ ul{
         margin-left: 0%;
     }
     .img{
-        width: 100%;
-        margin-left: 0px;
+        width: 70%;
+        margin-left: 13%;
     }
     .head1{
-        font-size: 20px;
-        margin-left: 0%;
+        font-size: 28px;
+        margin-left: 7%;
         margin-top: 0%;
         margin-right: 0%;
     }
     .head2{
-        font-size: 25px;
-        margin-left: 0%;
+        font-size: 36px;
+        margin-left: 7%;
         margin-right: 0%;
     }
     .head3{
-        margin-left: 0%;
-        margin-right: 0%;
+        margin-left: 7%;
+        margin-right: 5%;
     }
     .heading1{
-        margin-left: 0%;
+        margin-left: 7%;
     }
     .ing1{
-        width: 100%;
-        margin-left: 0%;
+        width: 70%;
+        margin-left: 7%;
     }
     .head23{
-        margin-left: 0%;
+        margin-left: 7%;
         margin-right: 0%;
         margin-top: 0%;
         font-size: 30px;
         color: black;
     }
     .para{
-        margin-left: 0%;
-        margin-right: 0%;
+        margin-left: 7%;
+        margin-right: 7%;
     }
     .button {
-        margin-left: 0%;
+        margin-left: 7%;
         margin-top: 0%;
         padding-top: 0%;
         border-radius: 30px 30px 30px 30px;
@@ -158,12 +158,12 @@ ul{
     }
     .button a {
         background-color: blue;
-        margin-left: 0%;
+        margin-left: 9%;
         color: white;
         text-decoration: none;
     }
     .button1 {
-        margin-left: 0%;
+        margin-left: 7%;
         margin-top: 0%;
         padding-top: 0%;
         border-radius: 30px 30px 30px 30px;
@@ -173,7 +173,7 @@ ul{
     }
     .button1 a {
         background-color: blue;
-        margin-left: 0%;
+        margin-left: 9%;
         color: white;
         text-decoration: none;
     }
